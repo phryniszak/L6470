@@ -7,3 +7,5 @@ Prerequists:
 
 It can be used with X-NUCLEO-IHM02A1 board. It is possible to synchronously drive two-axis stepper motors with one X-NUCLEO-IHM02A1
 board only. However, up to four X-NUCLEO-IHM02A1 expansion boards can be stacked on a single STM32 Nucleo board, so it is possible to drive up to eight stepper motors.
+
+https://www.youtube.com/watch?v=YXdvUURtZ1A
